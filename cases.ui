@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1225</width>
+    <height>996</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QPushButton" name="case1_btn">
+    <property name="geometry">
+     <rect>
+      <x>430</x>
+      <y>340</y>
+      <width>321</width>
+      <height>91</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Case 1</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="case2_btn">
+    <property name="geometry">
+     <rect>
+      <x>430</x>
+      <y>700</y>
+      <width>321</width>
+      <height>91</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Case 2</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="case3_btn">
+    <property name="geometry">
+     <rect>
+      <x>430</x>
+      <y>430</y>
+      <width>321</width>
+      <height>91</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Case 3</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="resetButton">
+    <property name="geometry">
+     <rect>
+      <x>1100</x>
+      <y>910</y>
+      <width>113</width>
+      <height>32</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Reset</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="case4_btn">
+    <property name="geometry">
+     <rect>
+      <x>430</x>
+      <y>790</y>
+      <width>321</width>
+      <height>91</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Case 4</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="case5_btn">
+    <property name="geometry">
+     <rect>
+      <x>430</x>
+      <y>520</y>
+      <width>321</width>
+      <height>91</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Case 5</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="case6_btn">
+    <property name="geometry">
+     <rect>
+      <x>430</x>
+      <y>610</y>
+      <width>321</width>
+      <height>91</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Case 6</string>
+    </property>
+   </widget>
+   <widget class="QTextBrowser" name="textBrowser">
+    <property name="geometry">
+     <rect>
+      <x>180</x>
+      <y>0</y>
+      <width>791</width>
+      <height>331</height>
+     </rect>
+    </property>
+    <property name="html">
+     <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;meta charset=&quot;utf-8&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+hr { height: 1px; border-width: 0; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'.AppleSystemUIFont'; font-size:13pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:18pt;&quot;&gt;Thank you for taking part in this test. 6 cases are presented below. &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:18pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:18pt;&quot;&gt;For each case:&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:18pt;&quot;&gt;1) &lt;/span&gt;&lt;span style=&quot; font-size:18pt; font-weight:700;&quot;&gt;Click&lt;/span&gt;&lt;span style=&quot; font-size:18pt;&quot;&gt; on the first case below. A new window will open. &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:18pt;&quot;&gt;2) Read the &lt;/span&gt;&lt;span style=&quot; font-size:18pt; font-weight:700;&quot;&gt;history, examination and conclusion. &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:18pt;&quot;&gt;3) You can click on any buttons you see on the new window. Some cases will not have any additional buttons and all information will be displayed in the same window. &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:18pt;&quot;&gt;4) Make a decision on what to prescribe, and then &lt;/span&gt;&lt;span style=&quot; font-size:18pt; font-weight:700;&quot;&gt;click the prescribe button.&lt;/span&gt;&lt;span style=&quot; font-size:18pt;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:18pt;&quot;&gt;5) Enter your prescription and click ok. This will save the case and you can &lt;/span&gt;&lt;span style=&quot; font-size:18pt; font-weight:700;&quot;&gt;move on to the next one.&lt;/span&gt;&lt;span style=&quot; font-size:18pt;&quot;&gt;&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-size:18pt; font-weight:700;&quot;&gt;You can assume the patient is well enough to be sent home with a prescription and appropriate follow up is arranged. This is not a test of knowledge or skill, so don't be too concerned about getting doses etc 100% correct. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1225</width>
+     <height>24</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
